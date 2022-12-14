@@ -1,0 +1,8 @@
+[paths]
+mask = P:\Teia\T23KMV_20210620T131241_B07_20m.jp2
+img_list = P:\Teia\SENTINELA2A_Outubro
+sat = P:\Teia\Mask_NDWI
+
+drone_reflec = C:\Users\pcosm\Desktop\Teia\poc\drone_parser\radiometric_corrections\data\medians_reflectance.csv
+drone_rad = C:\Users\pcosm\Desktop\Teia\poc\drone_parser\radiometric_corrections\data\chl_algo.csv
+metadata = C:\Users\pcosm\Desktop\Teia\poc\drone_parser\radiometric_corrections\data\metadata.csv
